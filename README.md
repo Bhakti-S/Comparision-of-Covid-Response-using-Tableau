@@ -5,5 +5,3 @@ The pdf slides show the graphs and insights found using Tableau.
 The compressed file is the final audio presentation that was submitted. 
 
 https://github.com/Bhakti-S/Comparision-of-Covid-Response-using-Tableau/blob/main/TrueCue_Covid-19_Hackathon.pdf
-
-[embed] https://github.com/Bhakti-S/Comparision-of-Covid-Response-using-Tableau/TrueCue_Covid-19_Hackathon.pdf [/embed]
